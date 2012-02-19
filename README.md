@@ -1,7 +1,7 @@
 DarkTango iMproved -- ViM color scheme
 --------------------------------------
 
-256 color scheme based on [darktango.vim][]
+256 color scheme based on [darktango.vim](http://github.com/vim-scripts/darktango.vim)
 
 Modifications include
 * modified some colors to better separate syntax elements
