@@ -6,4 +6,4 @@ DarkTango iMproved -- ViM color scheme
 Modifications include:
 
 * modified some colors to better separate syntax elements
-* etended to reach quasi-completeness and uniformity in highlight
+* extended to reach quasi-completeness and uniformity in highlight
