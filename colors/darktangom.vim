@@ -27,7 +27,7 @@ let g:colors_name="darktango"
 hi Normal	guibg=#171a1b guifg=#d3d7cf
 
 " {{{ Syntax
-hi Comment		guifg=#555753
+hi Comment		guifg=#555753 gui=italic
 hi Title		guifg=#eeeeec
 hi Underlined		guifg=#8040d0 gui=none
 hi Statement		guifg=#888a85
@@ -44,7 +44,7 @@ hi SpecialKey		guifg=#ce5c00
 hi Error		guibg=#500000 guifg=#000000
 
 " this isn't really syntax highlighting
-hi MatchParen		guibg=#996032 guifg=#171a1b 
+hi MatchParen		guibg=#2f2f2f guifg=#171a1b gui=bold
 " }}}
 
 " {{{ Cursor, current line & column
