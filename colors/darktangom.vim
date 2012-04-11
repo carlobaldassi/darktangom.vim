@@ -37,7 +37,7 @@ hi Constant		guifg=#babd80
 hi Identifier		guifg=#ce5c00 
 hi Special		guifg=#c07066
 hi Ignore		guifg=#f57900
-hi Todo			guibg=#ce5c00 guifg=#eeeeec
+hi Todo			guibg=#ce5c00 guifg=#eeeeec gui=italic
 hi String		guifg=#996032
 hi SpecialChar		guifg=#ce5c00
 hi SpecialKey		guifg=#ce5c00
